@@ -1,0 +1,24 @@
+.img-card {
+    font-size: 1.125rem;
+    text-anchor: middle;
+  }
+
+.background{
+    background-color:#24252d;
+}
+
+.amu-blue{
+    background-color: #0066CC;
+}
+
+.amu-cyan{
+    background-color: #00CCFF;
+}
+
+.amu-yellow{
+    background-color: #FFCC00;
+}
+
+.amu-black{
+    background-color: black;
+}
